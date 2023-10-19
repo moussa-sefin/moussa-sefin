@@ -1,4 +1,4 @@
-# Hi there 👋 My Name is Moussa I'm Software Engineer
+# Hi there 👋 My Name is Moussa I'm a Software Engineer
 
 <!--
 **moussa-sefin/moussa-sefin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
