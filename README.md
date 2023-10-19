@@ -1,6 +1,4 @@
-### Hi there 👋
-My Name is Moussa
-I'm good in python
+# Hi there 👋 My Name is Moussa I'm good in python
 
 <!--
 **moussa-sefin/moussa-sefin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
